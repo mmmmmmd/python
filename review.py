@@ -15,3 +15,7 @@ print 5//2
 
 #乘方
 print 5**2
+
+#输入
+name = raw_input("Name is ?\n")
+print name
